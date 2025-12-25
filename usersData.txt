@@ -1,0 +1,50 @@
+{
+    "name": "Iman",
+    "password": "123456abcde",
+    "role": "admin",
+    "confirmPassword": "123456abcde",
+    "email": "iman@gmail.com"
+}
+
+
+{
+    "name": "Morteza",
+    "password": "makeitlit",
+    "confirmPassword": "makeitlit",
+    "email": "Morteza@gmail.com"
+}
+
+{
+    "name": "Erfan",
+    "password": "dontgettoomuch",
+    "confirmPassword": "dontgettoomuch",
+    "email": "Erfan@gmail.com"
+}
+
+{
+    "name": "Ali",
+    "password": "whatswrongnigga",
+    "confirmPassword": "whatswrongnigga",
+    "email": "Ali@gmail.com"
+}
+
+&
+https://accounts.google.com/signin/oauth/error?
+authError=Cg1hY2Nlc3NfZGVuaWVkEtwBVGhlIGRldmVsb3BlciBoYXNu4oCZdCBnaXZlbiB5b3UgYWNjZXNzIHRvIHRoaXMgYXBwLiBJdOKAmXMgY3
+VycmVudGx5IGJlaW5nIHRlc3RlZCBhbmQgaXQgaGFzbuKAmXQgYmVlbiB2ZXJpZmllZCBieSBHb29nbGUuIElmIHlvdSB0aGluayB5b3Ugc2hvdWxkIGh
+hdmUgYWNjZXNzLCBjb250YWN0IHRoZSBkZXZlbG9wZXIgKGltYW4uYWJkb2xyYXp6YWdoLm5lemhhZEBnbWFpbC5jb20pLhpEaHR0cHM6Ly9zdXBwb3J0
+Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzM0NjY1MjE_cD1hcHBfbm90dmVyaWZpZWQgkwMqFgoLYWNjZXNzX3R5cGUSB29mZmxpbmUqFQoNcmVzc
+G9uc2VfdHlwZRIEY29kZSpFCgxyZWRpcmVjdF91cmkSNWh0dHA6Ly9sb2NhbGhvc3Q6NTY3OC9yZXN0L29hdXRoMi1jcmVkZW50aWFsL2NhbGxiYWNrKo
+4BCgVzdGF0ZRKEAWV5SjBiMnRsYmlJNklqRjRXbEZMUkdwTExWTnJMVmhxYWt4R0xYRkJXbGRrWlZoclpHRmtRbDh4WjI5NU5DSXNJbU5wWkNJNklrOXp
+kbEl3TUdzelQxbzNjREpLTVRraUxDSmpjbVZoZEdWa1FYUWlPakUzTlRrMU1UWTVOREF6TURCOSoRCgZwcm9tcHQSB2NvbnNlbnQqVQoJY2xpZW50X2lkE
+kg2MTUzMDUxNjA2NjktbWN2NjAzZjhmZHE0YWh1NXRncXE4YW1ycHBlaDFuZ3IuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20qYQoFc2NvcGUSWGh0dHB
+zOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvY2FsZW5kYXIgaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vYXV0aC9jYWxlbmRhci5ldmVudHMyigEIB
+BqFAWh0dHBzOi8vZGV2ZWxvcGVycy5nb29nbGUuY29tL2lkZW50aXR5L3Byb3RvY29scy9vYXV0aDIvcHJvZHVjdGlvbi1yZWFkaW5lc3MvYnJhbmQtdmVy
+aWZpY2F0aW9uP2hsPWVuI3Byb2plY3RzLXVzZWQtaW4tZGV2LXRlc3Qtc3RhZ2U%3D
+&client_id=615305160669-mcv603f8fdq4ahu5tgqq8amrppeh1ngr.apps.googleusercontent.com
+&app_domain=http%3A%2F%2Flocalhost%3A5678
+&authuser=0
+&as=S2116280293%3A1759516940457169
+&flowName=GeneralOAuthFlow
+
+&prompt=consent
